@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Dr Suyi Ooi"
-  bio              : "‣ Consultant neurologist at Bendigo Health <br><br> ‣ Subspecialised in epilepsy and cognitive neurology <br><br> ‣ Completed PhD through University of Melbourne, focused on seizure recurrence prediction after a first seizure using advanced neuroimaging"
+  bio              : "‣ Consultant neurologist at Bendigo Health <br><br> ‣ Subspecialised in epilepsy and cognitive neurology <br><br> ‣ PhD in seizure recurrence prediction using machine learning and advanced neuroimaging"
   location         : "Bendigo, VIC, Australia"
   employer         : "Bendigo Health"
   uri              : # URL
