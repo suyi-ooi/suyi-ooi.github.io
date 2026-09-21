@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Suyi Ooi"
+title                    : "Suyi Ooi · Neurologist · Bendigo"
 title_separator          : "-"
 name                     : &name "Suyi Ooi"
 description              : &description "Suyi Ooi | Neurologist | Epileptologist | Researcher | PhD"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Dr Suyi Ooi"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "‣ Consultant neurologist at Bendigo Health <br><br> ‣ Subspecialised in epilepsy and cognitive neurology <br><br> ‣ Completed PhD through University of Melbourne, focused on seizure recurrence prediction after a first seizure using advanced neuroimaging"
   location         : "Bendigo, VIC, Australia"
   employer         : "Bendigo Health"
   uri              : # URL
@@ -56,7 +56,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -135,7 +135,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
